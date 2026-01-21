@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Sudhakar P
 
-<!--
-**pSUDHAKAR1605/pSUDHAKAR1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | 2025 CSE Graduate  
+📍 Coimbatore, India
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** Python, JavaScript, C, C++
+- **Frontend:** HTML, CSS, React (learning), Tailwind CSS (learning)
+- **Backend:** Node.js, Express.js (learning)
+- **Databases:** MySQL, MongoDB (basic)
+- **Tools:** Git, GitHub, VS Code, PyCharm, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Doing
+- Learning backend development using Node.js and Express
+- Building full-stack projects
+- Solving beginner-level problems on LeetCode
+
+### 📌 Projects
+- **VendorIQ** – Vendor management dashboard (React)
+- **Kitchen Menu Management App** – Menu display and management system
+- **Weather App** – Real-time weather application using APIs
+- **Expense Tracker** – Basic expense tracking application
+
+### 📫 Connect with Me
+- GitHub: https://github.com/pSUDHAKAR1605
+- https://www.linkedin.com/in/sudhakar-p-57623b293
+
