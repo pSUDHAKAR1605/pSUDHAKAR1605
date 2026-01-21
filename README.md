@@ -23,5 +23,5 @@ Aspiring Software Developer | 2025 CSE Graduate
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/pSUDHAKAR1605
-- https://www.linkedin.com/in/sudhakar-p-57623b293
+- Linkedin: https://www.linkedin.com/in/sudhakar-p-57623b293
 
